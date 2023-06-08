@@ -5,4 +5,10 @@
     "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: "Roboto Mono", "SFMono-Regular", "Menlo", "Monaco",
     "Consolas", "Liberation Mono", "Courier New", monospace;
+}
+
+* {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
 }/*# sourceMappingURL=style.css.map */

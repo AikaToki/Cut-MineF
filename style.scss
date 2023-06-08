@@ -6,3 +6,6 @@
   --bs-font-monospace: "Roboto Mono", "SFMono-Regular", "Menlo", "Monaco",
     "Consolas", "Liberation Mono", "Courier New", monospace;
 }
+* {
+  user-select: none;
+}
